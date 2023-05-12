@@ -15,13 +15,13 @@
 ⚡ Fun fact I love to Travel.
 
 <h2>🚀 Languages and Tools:</h2>
-<table cellspacing="0" cellspadding="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 	<tr>
 		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
-		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
-		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
-		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
-		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
+		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"><td>
+		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"><td>
+		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg"><td>
+		<td><img width="80" src="https://e7.pngegg.com/pngimages/253/16/png-clipart-laravel-partner-logo-tech-companies.png"><td>
 		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
 		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
 		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
