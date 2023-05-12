@@ -15,19 +15,16 @@
 ⚡ Fun fact I love to Travel.
 
 <h2>🚀 Languages and Tools:</h2>
-<table>
+<table cellspacing="0" cellspadding="0">
 	<tr>
+		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
+		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
+		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
+		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
 		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
 		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
 		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
 		<td><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"><td>
 	</tr>
 </table>
-
-<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
-<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg">
-<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
-<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
-<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
-<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
 
