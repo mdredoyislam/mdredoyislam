@@ -2,16 +2,12 @@
 <h2>🙋‍♂️ About Me</h2>
 🔭 I’m currently working as a Full-time Web Developer( PHP & WordPress ) <b>Creative IT Institute.</b>
 
-🌱 I’m currently learning WP Plugin Developer, Laravel Framework, Data Structure Algorithm
-
+🌱 I’m currently learning Java, Python, MERN, Data Structure Algorithm
+🌱 Good Experience In C, C++, C#, JavaScript, Laravel, React, WordPress, WordPress Plugins, PHP, Joomla, Etc
 👯 I’m looking to collaborate on OpenSource Projects
-
 👨‍💻 All of my projects are available at My Portfolio
-
 📫 How to reach me mdredoyislam.web@gmail.com
-
 ⚽ I love to watch Movies or TV series and Read different Books.
-
 ⚡ Fun fact I love to Travel.
 
 <h2>🚀 Languages and Tools:</h2>
